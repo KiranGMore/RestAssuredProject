@@ -1,0 +1,16 @@
+2024-02-05 17:34:09.813 [main] INFO  UserTests2 - **************Creating User**************
+2024-02-05 17:34:15.675 [main] INFO  UserTests2 - **************User is created**************
+2024-02-05 17:34:15.711 [main] INFO  UserTests2 - **************Reading User info**************
+2024-02-05 17:34:17.384 [main] INFO  UserTests2 - **************User info is displayed**************
+2024-02-05 17:34:17.394 [main] INFO  UserTests2 - **************Updating User**************
+2024-02-05 17:34:19.067 [main] INFO  UserTests2 - **************User is updated**************
+2024-02-05 17:34:20.628 [main] INFO  UserTests2 - **************Deleting User**************
+2024-02-05 17:34:22.247 [main] INFO  UserTests2 - **************User is deleted**************
+2024-02-05 18:33:23.824 [main] INFO  UserTests2 - **************Creating User**************
+2024-02-05 18:33:30.297 [main] INFO  UserTests2 - **************User is created**************
+2024-02-05 18:33:30.332 [main] INFO  UserTests2 - **************Reading User info**************
+2024-02-05 18:33:32.067 [main] INFO  UserTests2 - **************User info is displayed**************
+2024-02-05 18:33:32.077 [main] INFO  UserTests2 - **************Updating User**************
+2024-02-05 18:33:33.624 [main] INFO  UserTests2 - **************User is updated**************
+2024-02-05 18:33:36.314 [main] INFO  UserTests2 - **************Deleting User**************
+2024-02-05 18:33:37.993 [main] INFO  UserTests2 - **************User is deleted**************
